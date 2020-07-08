@@ -8,7 +8,8 @@ MVP
 --- 
 
 ## FEATURES: 
-  * nav bar with hamburger menu that is responsive (flexbox + media quries )
+  * nav bar with hamburger menu that is responsive (flexbox + media quries ) 
+  * add FA icons to navigation bar (left side)
   * dark mode / light mode theme switch (Implement with Vanilla Javascript)
   * footer with FA icons 
   * form that calls a PHP script when submitted (Request to see CV)
