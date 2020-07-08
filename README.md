@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 <h3> ⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️  </h3> 
@@ -7,15 +8,13 @@
 MVP 
 --- 
 
-<div style="background:rgba(0,0,0,0.5);padding:0.5em;">
-<div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 ## FEATURES: 
   * nav bar with hamburger menu that is responsive (flexbox + media quries )
   * dark mode / light mode theme switch (Implement with Vanilla Javascript)
   * footer with FA icons 
   * form that calls a PHP script when submitted (Request to see CV)
   * 3 pages: Home, My Work & About me
-</div>
+
 
 
 
