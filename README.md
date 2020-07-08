@@ -29,7 +29,7 @@ MVP
 
 ## DEPLOYMENT: 
   * Deploy with either now.sh, heroku or netlify (whichever is cheapest and performs best) 
-  * pushing to the prod branch will signifywhat is currently deployed and development will signify is in progress 
+  * pushing to the prod branch will signify what is currently deployed and development will signify is in progress 
 
 
 ## MAIN FEATURES 
