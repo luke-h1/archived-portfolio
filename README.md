@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 <h3> ⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️  </h3> 
@@ -30,6 +29,8 @@ MVP
 
 ## DEPLOYMENT: 
   * Deploy with either now.sh, heroku or netlify (whichever is cheapest and performs best) 
+  * pushing to the master branch will signify what is in production / what is currently deployed. 
+
 
 
 ## MAIN FEATURES 
