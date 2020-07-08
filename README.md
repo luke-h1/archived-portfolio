@@ -8,12 +8,12 @@ MVP
 --- 
 
 ## FEATURES: 
-  [x] - * nav bar with hamburger menu that is responsive (flexbox + media quries )
-  [] - * add font awesome icons to navigation bar 
-  [] * dark mode / light mode theme switch (Implement with Vanilla Javascript)
-  [] * footer with FA icons 
-  [] * form that calls a PHP script when submitted (Request to see CV)
-  [] * 3 pages: Home, My Work & About me
+   * nav bar with hamburger menu that is responsive (flexbox + media quries ) 
+   * add font awesome icons to navigation bar 
+   * dark mode / light mode theme switch (Implement with Vanilla Javascript)
+   * footer with FA icons 
+   * form that calls a PHP script when submitted (Request to see CV)
+   * 3 pages: Home, My Work & About me
 
 
 
