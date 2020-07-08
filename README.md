@@ -30,6 +30,8 @@ MVP
 
 ## DEPLOYMENT: 
   * Deploy with either now.sh, heroku or netlify (whichever is cheapest and performs best) 
+  * pushing to the master branch will signify what is in production / what is currently deployed. 
+
 
 
 ## MAIN FEATURES 
