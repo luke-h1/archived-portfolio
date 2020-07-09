@@ -5,14 +5,12 @@
 
 
 ## FEATURES: 
-  * responsive navigation bar with hover and focus effects ✅ 
-  * add FA icons to navigation bar ✅ 
+  * responsive navigation bar with hover and focus effects 
+  * add FA icons to navigation bar 
   * make hamburger menu for smaller screens 
   * dark mode / light mode theme switch (Implement with Vanilla Javascript)
   * footer with FA icons 
   * form that calls a PHP script when submitted (Request to see CV)
-  * 3 pages: Home, My Work & contact me 
-
  
 
 ## TO-DO: 
