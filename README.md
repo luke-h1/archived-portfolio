@@ -1,6 +1,6 @@
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
-<h3> ⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️  </h3> 
+<h3>⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️</h3> 
 </div> 
 
 
@@ -15,15 +15,23 @@
  
 
 ## TO-DO: 
-  * Decide on color theme  
-  * Decide on Font family and sizes 
-  * Visualize the structure of the site with a tool such as figma 
+  * Decide on color theme  ✅
+  * Decide on Font family and sizes ✅
+  * Visualize the structure of the site with a tool such as figma ✅
 
 
+## colors: 
+  * header: #EAF2E3
+  * body: #fff 
+  * footer: #B09E99 
+  * font: #000 
+  
+  
+## fonts 
+  *  Roboto 
 
 
 ## DEPLOYMENT: 
-  * Deploy with either now.sh, heroku or netlify (whichever is cheapest and performs best) 
   * pushing to the prod branch will signify what is currently deployed and development will signify is in progress 
 
 
