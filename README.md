@@ -10,7 +10,7 @@
   * dark mode / light mode theme switch (Implement with Vanilla Javascript)
   * footer with FA icons 
   * form that calls a PHP script when submitted (Request to see CV)
-  * 3 pages: Home, My Work & About me
+  * 3 pages: Home, My Work & contact me 
 
  
 
