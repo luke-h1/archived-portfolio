@@ -3,9 +3,6 @@
 <h3> ⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️  </h3> 
 </div> 
 
---- 
-MVP 
---- 
 
 ## FEATURES: 
   * nav bar with hamburger menu that is responsive (flexbox + media quries ) 
@@ -17,13 +14,10 @@ MVP
 
  
 
-
-
 ## TO-DO: 
   * Decide on color theme  
   * Decide on Font family and sizes 
   * Visualize the structure of the site with a tool such as figma 
-
 
 
 
