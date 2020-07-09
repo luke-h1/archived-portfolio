@@ -31,7 +31,9 @@ strong {
 
 #navbar { 
   margin: 0 auto ;   
-  text-align: center;
+	text-align: center;
+	padding: 0 ; 
+	margin: 0px 0 ; 
 }
 
 ul#navbar{
@@ -42,6 +44,7 @@ ul#navbar{
 
 ul#navbar li{
 	display: inline-block;
+
 }
 ul#navbar li a{
 	display: block;
