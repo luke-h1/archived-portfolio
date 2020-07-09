@@ -17,20 +17,11 @@
 
 ## TO-DO: 
   * Decide on color theme  ✅
-  * Decide on Font family and sizes ✅
+  * Decide on Font family and sizes  ✅
   * Visualize the structure of the site with a tool such as figma ✅
 
 
-## colors: 
-  * header: #EAF2E3
-  * body: #fff 
-  * footer: #B09E99 
-  * font: #000 
-  
-  
-## fonts 
-  *  Roboto 
-
+ 
 
 ## DEPLOYMENT: 
   * pushing to the prod branch will signify what is currently deployed and development will signify is in progress 
