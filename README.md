@@ -17,18 +17,17 @@
   * add social icons FA ✅
   * style footer ✅
   * setup navigation styles ✅
+  * add portfolio section 
+  * fix images on "my-work" section 
+  * Deploy ! 
+  
+  
+  ## EXTRA: 
+   * PHP request CV form 
+   * Dark mode / light mode switcher
+
 
  
 
 
  
-
-## DEPLOYMENT: 
-  * pushing to the prod branch will signify what is currently deployed and development will signify is in progress 
-
-
-## MAIN FEATURES 
-  * responsive layout with 3 pages and a consistent color theme throughout  
-  * Dark mode / light mode switcher 
-  * Hamburger menu (responsive) 
-  * PHP request CV form 
