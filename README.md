@@ -3,6 +3,10 @@
 <h3>⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️</h3> 
 </div> 
 
+ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b920d3f1-6c6c-47b8-b269-2278720e34b1/deploy-status)](https://app.netlify.com/sites/lukeh/deploys) 
+
+ 
 
 ## TO-DO: 
   * Decide on color theme  ✅
@@ -19,7 +23,7 @@
   * setup navigation styles ✅
   * add portfolio section 
   * fix images on "my-work" section 
-  * Deploy ! 
+  * Deploy ! (development branch deployed) (prod branch TO-DO) 
   
   
   
@@ -34,7 +38,3 @@
    * Dark mode / light mode switcher
 
 
- 
-
-
- 
