@@ -22,19 +22,17 @@
   * style footer ✅
   * setup navigation styles ✅
   * add portfolio section 
-  * fix images on "my-work" section 
-  * Deploy ! (development branch deployed) (prod branch TO-DO) 
+  * fix images on "my-work" section ✅
+  * Deploy development Branch ✅ 
+  * Deploy production branch ❌
   
   
   
   ## CURRENT-STATE: 
-  * need to fix grid images on "my-work section" 
-  * ready for deployment 
-  
-  
-  ## EXTRA: 
-   * add portfolio section  
-   * PHP request CV form 
-   * Dark mode / light mode switcher
+  * need to fix grid images on "my-work section" ✅
+  * add portfolio page 
+  * PHP request CV form 
+  * Dark mode / light mode switcher
 
+ 
 
