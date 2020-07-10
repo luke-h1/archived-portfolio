@@ -22,7 +22,14 @@
   * Deploy ! 
   
   
+  
+  ## CURRENT-STATE: 
+  * need to fix grid images on "my-work section" 
+  * ready for deployment 
+  
+  
   ## EXTRA: 
+   * add portfolio section  
    * PHP request CV form 
    * Dark mode / light mode switcher
 
