@@ -4,19 +4,21 @@
 </div> 
 
 
-## FEATURES: 
-  * responsive navigation bar with hover and focus effects 
-  * add FA icons to navigation bar 
-  * make hamburger menu for smaller screens 
-  * dark mode / light mode theme switch (Implement with Vanilla Javascript)
-  * footer with FA icons 
-  * form that calls a PHP script when submitted (Request to see CV)
- 
-
 ## TO-DO: 
   * Decide on color theme  ✅
   * Decide on Font family and sizes  ✅
   * Visualize the structure of the site with a tool such as figma ✅
+  * about me , work & footer ✅
+  * set up custom props and general styles ✅
+  * style titles & subtitles ✅
+  * setup intro section ✅
+  * style work / services section ✅
+  * start work on about me section ✅
+  * add social icons FA ✅
+  * style footer ✅
+  * setup navigation styles ✅
+
+ 
 
 
  
