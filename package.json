@@ -4,14 +4,14 @@
   "description": "<div style=\"background:rgba(0,0,0,0.5);padding:0.5em;\"> <div style=\"background:rgba(0,0,0,0.5);padding:0.5em;\"> <h3>⚡️⚡️⚡️ Personal Portfolio Plan ⚡️⚡️⚡️</h3>  </div>",
   "main": "app.js",
   "scripts": {
-    "script": "node_modules/.bin/eslint app.js"
+    "script": "/Users/lukehowsam/srv/dev/personal-portfolio/node_modules/.bin/eslint *.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luke-h1/personal-portfolio.git"
   },
   "author": "luke-h1",
-  "license": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/luke-h1/personal-portfolio/issues"
   },
