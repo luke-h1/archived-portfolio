@@ -22,7 +22,7 @@
   * style footer ✅
   * setup navigation styles ✅
   * add portfolio section 
-  * fix images on "my-work" section 
+  * fix images on "my-work" section ✅
   * Deploy development Branch ✅ 
   * Deploy production branch ❌
   
