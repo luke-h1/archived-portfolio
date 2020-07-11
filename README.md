@@ -4,7 +4,7 @@
 </div> 
 
  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b920d3f1-6c6c-47b8-b269-2278720e34b1/deploy-status)](https://app.netlify.com/sites/lukeh/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b920d3f1-6c6c-47b8-b269-2278720e34b1/deploy-status)](https://app.netlify.com/sites/lukeh/deploys) 
 
  
 
@@ -25,14 +25,15 @@
   * fix images on "my-work" section ✅
   * Deploy development Branch ✅ 
   * Deploy production branch ✅
+  * cleanup img/ folder ✅
+  * add custom images for my-portfolio-item page 
+  * add more work to "my-work" section and add more images to fix grid issue / to add more content 
+  * clean and refactor  
+  * look into viabilty of adding extras such as PHP request form 
+  * link images in my-work section to my-portfolio-item page 
+  * add FA github Icon to each individual portfolio item 
   
   
-  
-  ## CURRENT-STATE: 
-  * need to fix grid images on "my-work section" ✅
-  * add portfolio page 
-  * PHP request CV form 
-  * Dark mode / light mode switcher
 
- 
+  
 
