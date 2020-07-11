@@ -24,7 +24,7 @@
   * add portfolio section 
   * fix images on "my-work" section ✅
   * Deploy development Branch ✅ 
-  * Deploy production branch ❌
+  * Deploy production branch ✅
   
   
   
