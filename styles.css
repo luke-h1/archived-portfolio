@@ -7,16 +7,23 @@
 /* Custom Properties */
 
 :root {
+
+  /* font families */
   --ff-primary: "Source Sans Pro", sans-serif;
   --ff-secondary: "Source Code Pro", monospace;
 
+  /* font weight  */
   --fw-reg: 300;
   --fw-bold: 900;
 
+
+/* colors */
   --clr-light: #fff;
   --clr-dark: #303030;
   --clr-accent: #16e0bd;
 
+
+  /* font sizes */
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
   --fs-h3: 1.25rem;
@@ -37,6 +44,8 @@
 
 /* General styles */
 
+
+/* apply smooth scrolling for entire page */
 html {
   scroll-behavior: smooth;
 }
@@ -50,18 +59,23 @@ body {
   line-height: 1.6;
 }
 
+
+
 section {
   padding: 5em 2em;
 }
+
 
 img {
   display: block;
   max-width: 100%;
 }
 
+
 strong {
   font-weight: var(--fw-bold);
 }
+
 
 :focus {
   outline: 3px solid var(--clr-accent);
@@ -97,6 +111,7 @@ h3 {
   margin: 0;
 }
 
+/* explicity set font sizes with custom props */
 h1 {
   font-size: var(--fs-h1);
 }
@@ -107,6 +122,9 @@ h3 {
   font-size: var(--fs-h3);
 }
 
+
+
+/* SECTION___TITLE & SECTION__SUBTITLE */
 .section__title {
   margin-bottom: 0.25em;
 }
@@ -132,7 +150,7 @@ h3 {
   margin-bottom: 1em;
 }
 
-/* header */
+/* HEADER */
 
 header {
   display: flex;
@@ -140,10 +158,13 @@ header {
   padding: 1em;
 }
 
+
 .logo {
   max-width: 100px;
 }
 
+
+/* NAVIGATION STYLES  */
 .nav {
   position: fixed;
   background: var(--clr-dark);
@@ -179,9 +200,7 @@ header {
   color: var(--clr-accent);
 }
 
-/* ===============
-  HAMBURGER MENU 
-   =============== */
+/* HAMBURGER MENU */
 .hamburger {
   display: block;
   position: relative;
@@ -207,11 +226,14 @@ header {
 }
 
 .nav-open .hamburger {
-  transform: rotate(0.625turn);
+  transform: rotate(.5turn);
 }
 
+
+
+
 .nav-open .hamburger::before {
-  transform: rotate(90deg) translateX((-6px));
+  transform: rotate(57deg) translateX((10px));
 }
 
 .nav-open .hamburger::after {
@@ -222,7 +244,7 @@ header {
 .hamburger::before,
 .hamburger::after {
   background: var(--clr-accent);
-  width: 2em;
+  width: 1.8em;
   height: 3px;
   border-radius: 1em;
   transition: transform 250ms ease-in-out;
@@ -237,11 +259,11 @@ header {
 }
 
 .hamburger::before {
-  top: 6px;
+  top: 10px;
 }
 
 .hamburger::after {
-  bottom: 6px;
+  bottom: 10px;
 }
 
 /*  Intro section  */
@@ -295,7 +317,7 @@ header {
 
 .my-services {
   background-color: var(--clr-dark);
-  background-image: url(/img/services-bg.jpg);
+  background-image: url(/img/ales.jpg);
   background-size: cover;
   background-blend-mode: overlay;
   color: var(--clr-light);
