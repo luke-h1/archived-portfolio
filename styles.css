@@ -7,7 +7,6 @@
 /* Custom Properties */
 
 :root {
-
   /* font families */
   --ff-primary: "Source Sans Pro", sans-serif;
   --ff-secondary: "Source Code Pro", monospace;
@@ -16,12 +15,10 @@
   --fw-reg: 300;
   --fw-bold: 900;
 
-
-/* colors */
+  /* colors */
   --clr-light: #fff;
   --clr-dark: #303030;
   --clr-accent: #16e0bd;
-
 
   /* font sizes */
   --fs-h1: 3rem;
@@ -44,7 +41,6 @@
 
 /* General styles */
 
-
 /* apply smooth scrolling for entire page */
 html {
   scroll-behavior: smooth;
@@ -59,23 +55,18 @@ body {
   line-height: 1.6;
 }
 
-
-
 section {
   padding: 5em 2em;
 }
-
 
 img {
   display: block;
   max-width: 100%;
 }
 
-
 strong {
   font-weight: var(--fw-bold);
 }
-
 
 :focus {
   outline: 3px solid var(--clr-accent);
@@ -122,8 +113,6 @@ h3 {
   font-size: var(--fs-h3);
 }
 
-
-
 /* SECTION___TITLE & SECTION__SUBTITLE */
 .section__title {
   margin-bottom: 0.25em;
@@ -158,11 +147,9 @@ header {
   padding: 1em;
 }
 
-
 .logo {
   max-width: 100px;
 }
-
 
 /* NAVIGATION STYLES  */
 .nav {
@@ -226,11 +213,8 @@ header {
 }
 
 .nav-open .hamburger {
-  transform: rotate(.5turn);
+  transform: rotate(0.5turn);
 }
-
-
-
 
 .nav-open .hamburger::before {
   transform: rotate(57deg) translateX((10px));
@@ -439,6 +423,8 @@ header {
   transition: transform 750ms cubic-bezier(0.5, 0, 0.5, 1), opacity 250ms linear;
 }
 
+
+
 .portfolio__item:focus {
   z-index: 2;
   position: relative;
@@ -496,4 +482,20 @@ header {
 
 .footer__link:hover {
   text-decoration: underline;
+}
+
+/* portfolio item individual  */
+
+.portfolio__item-individual {
+  /* add styling to portfolio individual */
+  padding: 0 2em 2em;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.portfolio__item-individual p {
+  /* center text with image */
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
