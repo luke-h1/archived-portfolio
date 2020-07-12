@@ -30,8 +30,5 @@
   * clean and refactor  ✅
   * link images in my-work section to my-portfolio-item page ✅
   * add FA icon to each individual portfolio item ✅
-  
-  
 
-  
 
