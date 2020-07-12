@@ -41,6 +41,25 @@
 
 /* General styles */
 
+/* i { 
+color: var(--clr-dark) ; 
+
+}
+
+i:hover { 
+  color: var(--clr-accent)
+} */
+
+.custom-fa { 
+  color: var(--clr-dark) ; 
+  
+}
+
+.custom-fa:hover { 
+  color: var(--clr-accent) ; 
+}
+
+
 /* apply smooth scrolling for entire page */
 html {
   scroll-behavior: smooth;
@@ -410,7 +429,7 @@ header {
 .portfolio {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  max-width: 1400px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
@@ -498,4 +517,9 @@ header {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.test {
+   text-align: center;
 }
