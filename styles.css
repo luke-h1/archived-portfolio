@@ -523,3 +523,10 @@ header {
 .test {
    text-align: center;
 }
+
+
+/* covid page  */ 
+.custom-p { 
+  text-align: center; 
+  font-size: var(--fs-h3) ; 
+}
