@@ -26,10 +26,10 @@
   * Deploy development Branch ✅ 
   * Deploy production branch ✅
   * cleanup img/ folder ✅
-  * add more work to "my-work" section and add more images to fix grid issue / to add more content 
-  * clean and refactor  
-  * link images in my-work section to my-portfolio-item page 
-  * add FA github Icon to each individual portfolio item 
+  * add more work to "my-work" section and add more images to fix grid issue / to add more content ✅
+  * clean and refactor  ✅
+  * link images in my-work section to my-portfolio-item page ✅
+  * add FA icon to each individual portfolio item ✅
   
   
 
