@@ -26,10 +26,8 @@
   * Deploy development Branch ✅ 
   * Deploy production branch ✅
   * cleanup img/ folder ✅
-  * add custom images for my-portfolio-item page 
   * add more work to "my-work" section and add more images to fix grid issue / to add more content 
   * clean and refactor  
-  * look into viabilty of adding extras such as PHP request form 
   * link images in my-work section to my-portfolio-item page 
   * add FA github Icon to each individual portfolio item 
   
