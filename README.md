@@ -3,14 +3,6 @@
 <h3>⚡️⚡️⚡️ Personal Portfolio ⚡️⚡️⚡️</h3> 
 </div> 
 
- 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/b920d3f1-6c6c-47b8-b269-2278720e34b1/deploy-status)](https://app.netlify.com/sites/lukeh/deploys)  
- <br> 
- [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-  <br> 
-[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
- <br> 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
 ## TO-DO: 
   * Decide on color theme  ✅
