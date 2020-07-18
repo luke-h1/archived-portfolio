@@ -1,10 +1,8 @@
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
 <div style="background:rgba(0,0,0,0.5);padding:0.5em;">
-<h3>⚡️⚡️⚡️ Personal Portfolio ⚡️⚡️⚡️</h3> 
+<h3> Personal Portfolio</h3> 
 </div> 
 
- 
- [![Netlify Status](https://api.netlify.com/api/v1/badges/b920d3f1-6c6c-47b8-b269-2278720e34b1/deploy-status)](https://app.netlify.com/sites/lukeh/deploys) 
 
 ## TO-DO: 
   * Decide on color theme  ✅
