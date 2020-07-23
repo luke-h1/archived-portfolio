@@ -4,7 +4,16 @@
 </div> 
 
 
-## TO-DO: 
+## Personal portfolio 
+ * source code for my personal website 
+ 
+ 
+ ## TO-DO: 
+   * change color theme based on user input (dark-mode switcher).
+
+
+
+## MVP: 
   * Decide on color theme  ✅
   * Decide on Font family and sizes  ✅
   * Visualize the structure of the site with a tool such as figma ✅
