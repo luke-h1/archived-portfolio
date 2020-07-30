@@ -409,8 +409,9 @@ header {
 
 .portfolio {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    max-width: 500px;
+    /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr)) ; 
+    max-width: 300px;
     margin: 0 auto;
 }
 
@@ -467,7 +468,7 @@ header {
 }
 
 .social-list__items {
-    margin: ;
+    margin: 10px ;
 }
 
 .social-list__link {
@@ -511,4 +512,29 @@ header {
 
 .custom-fa:hover {
     color: var(--clr-accent);
+}
+
+
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+} 
+
+
+.projects > img {
+        width: 100%;
+        border: 3px solid #fff solid; 
+} 
+
+
+.projects img:hover { 
+    opacity: 0.5;
+
+}
+
+
+.item a { 
+    padding-left: 3em ; 
 }
